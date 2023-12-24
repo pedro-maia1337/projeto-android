@@ -47,7 +47,7 @@ header > p {
     font-size: 1.2em;
     padding: 10px;
     color: var(--text-color);
-    margin-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 .menu{
